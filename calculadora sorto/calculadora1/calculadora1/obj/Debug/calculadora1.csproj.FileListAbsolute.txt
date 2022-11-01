@@ -1,0 +1,9 @@
+C:\Users\IDL_ALUMNOS\Desktop\calculadora sorto\calculadora1\calculadora1\bin\Debug\calculadora1.exe.config
+C:\Users\IDL_ALUMNOS\Desktop\calculadora sorto\calculadora1\calculadora1\bin\Debug\calculadora1.exe
+C:\Users\IDL_ALUMNOS\Desktop\calculadora sorto\calculadora1\calculadora1\bin\Debug\calculadora1.pdb
+C:\Users\IDL_ALUMNOS\Desktop\calculadora sorto\calculadora1\calculadora1\obj\Debug\calculadora1.csprojResolveAssemblyReference.cache
+C:\Users\IDL_ALUMNOS\Desktop\calculadora sorto\calculadora1\calculadora1\obj\Debug\calculadora1.Form1.resources
+C:\Users\IDL_ALUMNOS\Desktop\calculadora sorto\calculadora1\calculadora1\obj\Debug\calculadora1.Properties.Resources.resources
+C:\Users\IDL_ALUMNOS\Desktop\calculadora sorto\calculadora1\calculadora1\obj\Debug\calculadora1.csproj.GenerateResource.Cache
+C:\Users\IDL_ALUMNOS\Desktop\calculadora sorto\calculadora1\calculadora1\obj\Debug\calculadora1.exe
+C:\Users\IDL_ALUMNOS\Desktop\calculadora sorto\calculadora1\calculadora1\obj\Debug\calculadora1.pdb
